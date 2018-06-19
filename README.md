@@ -13,7 +13,6 @@ More information, including abilitys, portfolio, documents, requisites etc. can 
 - Contact form: https://goo.gl/H7QVGp
 
 # Resources
-
 accounting.system - asset management system for the crypt-currency fund. It is developed on the basis of experience with classical financial systems, but with understanding of the cryptocurrency specificity. [More>>](https://github.com/BCIFUND/public/tree/master/accounting.system)
 
 contracts - assets of the fund are stored on multi-signature wallets. Here is the code. [More>>](https://github.com/BCIFUND/public/tree/master/contracts)
