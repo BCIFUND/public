@@ -13,10 +13,10 @@ More information, including abilitys, portfolio, documents, requisites etc. can 
 - Contact form: https://goo.gl/H7QVGp
 
 # Resources
-accounting.system - asset management system for the crypto-currency fund. Developed on the basis experience with classical financial systems, but with understanding of the cryptocurrency specificity. [More>>](https://github.com/BCIFUND/public/tree/master/accounting.system)
+- accounting.system - asset management system for the crypto-currency fund. Developed on the basis experience with classical financial systems, but with understanding of the cryptocurrency specificity. [More>>](https://github.com/BCIFUND/public/tree/master/accounting.system)
 
-contracts - fund assets are stored on multi-signature wallets. The code can be found here. [More>>](https://github.com/BCIFUND/public/tree/master/contracts)
+- contracts - fund assets are stored on multi-signature wallets. The code can be found here. [More>>](https://github.com/BCIFUND/public/tree/master/contracts)
 
-listing.bot - fully automated channel that aims to accurately predict the listing of a new token on an exchange before the official announcement. [More>>](https://github.com/BCIFUND/public/tree/master/listing.bot).
+- listing.bot - fully automated channel that aims to accurately predict the listing of a new token on an exchange before the official announcement. [More>>](https://github.com/BCIFUND/public/tree/master/listing.bot).
 
-reporting.system - used to provide reports to investors online. [More>>](https://github.com/BCIFUND/public/tree/master/reporting.system)
+- reporting.system - used to provide reports to investors online. [More>>](https://github.com/BCIFUND/public/tree/master/reporting.system)
