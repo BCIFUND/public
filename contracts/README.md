@@ -1,2 +1,2 @@
 # About
-Assets of the fund are stored on multi-signature wallets. Here is the code.
+Fund assets are stored on multi-signature wallets. The code can be found here.
