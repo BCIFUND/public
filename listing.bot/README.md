@@ -14,7 +14,7 @@ Exchange list & changelog: https://goo.gl/g2W9Mr
 
 Contact: https://goo.gl/sHf7gc 
 
-#Changelog
+# Changelog
 
 - 21.03.2018	- creation
 - 26.03.2018	- changing notification text, new exchanges, tech improvements
