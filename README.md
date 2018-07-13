@@ -9,7 +9,6 @@ More information, including abilitys, portfolio, documents, requisites etc. can 
 
 # Social
 - Web-site: http://bcinvest.fund/
-- Telegram: https://t.me/BCIFND
 - Contact form: https://goo.gl/H7QVGp
 
 # Resources
