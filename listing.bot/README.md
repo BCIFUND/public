@@ -21,4 +21,5 @@ Contact: https://goo.gl/sHf7gc
 - 05.04.2018	- new exchanges
 - 30.04.2018	- bug fixes
 - 10.05.2018	- new exchanges
-- 25.06.2018	- major update: API integration, twitter, USDt monitoring, new exchanges etc.
+- 25.06.2018	- major update: API integration, twitter, USDt monitoring, new exchanges, etc.
+- 15.07.2018	- major update: annaunce parsing, new exchanges, optimisation, etc.
